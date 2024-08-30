@@ -65,7 +65,7 @@ body{
     width: 150px;
 }
 .logo{
-    background-image: url("logos/nav-logo.png");
+    background-image: url("nav-logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
